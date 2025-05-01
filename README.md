@@ -1,4 +1,4 @@
-👋 Hi, I’m @nikesh123-child
+👋 Hi, I’m Nikesh Mahato
 	•	👀 I have a strong interest in cybersecurity and web development.
 	•	🌱 Currently expanding my skills in full-stack development and ethical hacking.
 	•	💞️ Open to collaborating on innovative and impactful tech projects
